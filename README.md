@@ -15,7 +15,8 @@
   <!-- Add more members as needed -->
 </ul>
 <h4>Framework sử dụng</h4>
-<li> 
-  <ul>ExpressJS - NodeJS</ul>
-  <ul>MongoDB</ul>
-</li>
+  <li> 
+    ExpressJS - NodeJS
+    MongoDB
+  </li>
+<h5>Hướng dẫn cài đặt môi trường</h5>
