@@ -2,37 +2,8 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>NT208.O22.ANTT Nhóm 7</title>
-  <style>
-    h1, h2, h3, h4 {
-      text-align: center;
-    }
-    h1 {
-      color: #4CAF50;
-    }
-    h2 {
-      color: #2196F3;
-    }
-    h3 {
-      color: #FF9800;
-    }
-    h4 {
-      color: #9C27B0;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #4CAF50;
-    }
-    p {
-      text-align: center;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
   <h1>NT208.O22.ANTT Nhóm 7</h1>
