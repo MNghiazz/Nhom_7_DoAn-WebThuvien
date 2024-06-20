@@ -150,6 +150,3 @@
   </ul>
 </body>
 </html>
-```
-
-In this code, the new section "Trả lời câu hỏi các nhóm" includes the provided questions and answers in a nested list format for clarity and organization.
